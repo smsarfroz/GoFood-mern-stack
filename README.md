@@ -22,9 +22,8 @@ Technologies Used
     Frontend:
         React.js
         React Router
-        Redux (or Context API)
-        HTML/CSS (Sass/SCSS)
-        Axios
+        Context API
+        HTML/CSS 
 
     Backend:
         Node.js
